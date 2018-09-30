@@ -18,3 +18,5 @@ A client send a GET request to '/api/users' under this project. The server route
 The controller recieve a User Model and check if the request is valid and search for existing users in DB.
 The DB rensponse accorddingly with data or with error which return as a response from the server to the client.
 
+# Running instructions
+Download the project to you computer, install the modules by running 'npm install' or 'yarn' and then 'npm start'.
